@@ -8,11 +8,6 @@ I'm a software developer who loves to explore different projects and technologie
 - ✨ Continuously improving my skills and knowledge. 
 - 🦄 Some of my other interests include games and game development, neuroscience, art, and philosophy.
 
-<div align="center">
-<a href="https://github.com/iuricode" title="Perfil da Julia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaMakowski&theme=dracula&show_icons=true" />
-</a>
-</div>
 
 ## 🚀 Technical Skills
 
@@ -23,17 +18,6 @@ I'm a software developer who loves to explore different projects and technologie
 **DevOps & Cloud Providers**
 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-
-<br/>
-
-<div align="center">
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JuliaMakowski&theme=dracula&hide_border=false"
-        alt="Github Stats"
-      />
-</div>
-<br/>
 
 
 
